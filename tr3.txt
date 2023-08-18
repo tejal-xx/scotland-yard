@@ -1,0 +1,2 @@
+Welcome. You play Detective 2 in Game 5000:0. You start on square 0. Make a move, and wait for feedback
+Move 2; Detective 2; Play; Detectives on 15, 16, 48, 0, 5
